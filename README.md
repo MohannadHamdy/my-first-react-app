@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a very basic project as I'm still learning, and up to this stage, Version 1 is uploaded which only utilizes the useState(). More to follow.
 
 ## Available Scripts
 
